@@ -1,0 +1,10 @@
+Ubah nama folder project sesuai nama kalian.
+Burning hasil MID kedalam CD-R, tulis NAMA,NIM DAN KELAS pada wadah kaset.
+Dikumpulkan paling lambat tanggal 18 jam 17.00 di meja saya, jika lewat tidak akan dikoreksi.
+
+lengkapi project yang telah disediakan, dan buat seperti pada contoh.
+
+-tambahkan variable jumlah koin pada wadah karakter.
+-jika menyentuh koin, maka koinnya menghilang, variabel jumlah koin pada wadah karakter bertambah 1.
+-jika jumlah koin sama dengan 5, maka "baling2" bergerak kearah sebaliknya.
+-jika menyentuh batu nisan karakter menghilang/mati.

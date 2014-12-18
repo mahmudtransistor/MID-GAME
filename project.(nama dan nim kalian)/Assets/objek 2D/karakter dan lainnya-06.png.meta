@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: a297ea887685e504e8e72d4eab48e0d8
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: karakter dan lainnya-06_0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 946
+        width: 772
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: karakter dan lainnya-06_1
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 969
+        width: 735
+        height: 733
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: karakter dan lainnya-06_2
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 1441
+        width: 1090
+        height: 421
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: karakter dan lainnya-06_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 135
+        width: 782
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: karakter dan lainnya-06_4
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 135
+        width: 781
+        height: 746
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: karakter dan lainnya-06_5
+      rect:
+        serializedVersion: 2
+        x: 2091
+        y: 77
+        width: 1123
+        height: 1162
+      alignment: 9
+      pivot: {x: .534504056, y: .430699617}
+  spritePackingTag: 
+  userData: 
